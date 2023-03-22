@@ -1,0 +1,34 @@
+Ansible - 10
+------------
+https://transcripts.gotomeeting.com/#/s/846d9e401d9485ac8f88e2f78fc7f7ada1e73459118e53b9d1db3256b214459c
+Ansible - 9
+-----------
+https://transcripts.gotomeeting.com/#/s/61b3bf1717353f09724dfc4f48351624d13dd12e953a1394060c76eb50ac823f
+Ansible -8
+----------
+https://transcripts.gotomeeting.com/#/s/0b61f03dbe46e66f2416034f00188cb446a5096ef6370b3afaf56984490ad5fb
+Ansible 7.1
+------------
+https://transcripts.gotomeeting.com/#/s/8e91145d3c4f5cda3da1a39a2bfc4f54fc2d104628b4978a4e367a2e3445a3f2
+
+Ansible 7.2
+-----------
+https://transcripts.gotomeeting.com/#/s/f86eefbdcfb81ae1cbc56a2563115b5edbe91583e71c1c319d486c96d0c67c33
+Ansible -6
+----------
+https://transcripts.gotomeeting.com/#/s/a03576378089dddef8a7d25d00769e1184744e81579f8c5a89212a68211dac0e
+Ansible - 5
+-----------
+https://transcripts.gotomeeting.com/#/s/8f0d583cac76e9373d0bc2f41cddfe8584f7fd0a1e64e10388bd0bf4aebc4d24
+Ansible -4
+----------
+https://transcripts.gotomeeting.com/#/s/a63ff244ae9ece530ddbf5de242e044689a456da04f15b15dbdc75b94434c617
+Ansible - 3
+-----------
+https://transcripts.gotomeeting.com/#/s/56df1e049499ac22c14c501728816f3b3898f4ac2e731a93091fca76f911334e
+Ansible -2
+----------
+https://transcripts.gotomeeting.com/#/s/652682f5e8cd01ff4beb012054a0057e003141dc203c8bbb7ec39b71f878174f
+Ansible -1
+-----------
+https://transcripts.gotomeeting.com/#/s/dd9cb4fa1e37bbb3384336241451f5824a5a618d9100adea9c628ea29c34e888

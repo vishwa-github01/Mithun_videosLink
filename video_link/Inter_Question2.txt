@@ -1,0 +1,53 @@
+Company: Wekorps
+Date: 18-5-2022 (Telephonic Interview)
+
+Hi Guys
+I have updated my profile in job portals on 17-5-2022.
+HR cum Techi guy from WebKorps approaced me and asked about my availability and had a
+technical discussion for 40 min.
+He asked below questions
+
+1) What are the tools and technologies used in your company
+2) Explain the different services used in AWS.
+I have explained about EBS,EFS,S3,VPC,Autoscaling,ELB
+3) Types of ELB and what are the situation we choose type of ELB's
+4) Why are you using Network Load balancer, Can you explain in detail about NLB&ALB
+5) Explain any flow of CI used in your company, he has expected stage to stage detailed explanation
+6) GIT HUB Web HOOK vs Poll SCM
+7) Maven build
+8) Plugins used in Jenkins
+9) what is Docker file and explain all the instructions
+10) Architecture of Kubernetes (In Detail end to end)
+11) Why Auto scaling is very important and how you implemented
+12) Why Auto scaling is preferred
+13) How master and worker nodes communicate in Kubernetes
+14) Explain few objects in Kubernetes
+15) What's the branching stragegy using, I said 3 (Dev,Certified&Master branches)
+
+Date: 19-05-2022 (Zoom Call)
+Today one more technical round got happened in the aternoon 19-05-2022
+1) What is Ingress Controller and why it's used.
+2) How do you write your manifest files
+I said using Visual Studio code with Kubernetes Plugin
+2) What is Auto Scaling
+3) ELB
+4) Explain VPC - Asked pin to pin each and every thing in VPC
+5) Directory structure of Linux
+6) What are the regular day to day commands you used in Linux
+7) How the developer is notified upon build failure 
+I said slack channges and mail intergration 
+8) ITIR for 192.168.0.0 --> How do you divide it for 2 subnets
+Asked me to explain indetail 2*32-n 
+9) Docker file instructions indetail
+10) Apart from Jenkins any other CI tools knowledge
+11) EBS 
+12) EFS - When we go for EFS
+13) S3
+14) Docker swarm vs Kubernetes Orchestration
+15) How you implemented auto scaling using AWS Services
+I explained about EKS Service with Kubernetes Cluster
+16) Why we need to use Helm charts
+17) Helm 3.0 vs 2.0 and explanation about architecture 
+18) Monitoring tools used in your project
+
+experience sir?
