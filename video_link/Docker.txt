@@ -1,3 +1,22 @@
+Docker -15- Apr 12th 2023
+-----------------------------
+https://transcripts.gotomeeting.com/#/s/d6205baaea0723c846516a1b9bf4fb33f23b5f96772ab59c31ab50c88a9b8e8c
+
+About the Monolithic and micro service architecture & Basic container uses and advantage over VM'serviceOver architecture
+
+Docker -14- Apr 11th 2023
+-----------------------------
+https://transcripts.gotomeeting.com/#/s/085fdf1558cb0c33ec548902e1c3304f225d1c968811f2a2e9f4247a66665c8e
+
+Docker -13- Apr 10th 2023
+-----------------------------
+Part-1
+----------
+https://transcripts.gotomeeting.com/#/s/0de1edc1e14f4e12ec9783f49e7a9c66add6df5e27bbdcc7d6ccfa0345971f29
+Part-2
+-----------
+https://transcripts.gotomeeting.com/#/s/c01f4e404230eedf8f2a302d1326c320ffbae31b4e344bc2960d38a52048c207
+
 Docker -12- Apr 9th 2023
 -----------------------------
 https://transcripts.gotomeeting.com/#/s/f21e1c43c209bf95de0441b97416b4f03812a4dd4986fa4dd9b3346e26a5e889
