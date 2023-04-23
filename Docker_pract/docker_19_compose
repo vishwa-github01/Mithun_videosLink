@@ -1,0 +1,7 @@
+Docker compose - docker 19th class
+
+docker-compose - created 2 container with networ n volumr 
+docker-compose up -d
+
+docker-compose down 
+- will delete the container n networked not the Volume

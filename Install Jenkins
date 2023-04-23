@@ -1,0 +1,31 @@
+
+Link for installation on te Ubuntu
+
+https://www.jenkins.io/doc/book/installing/linux/
+
+Java 11 installation
+
+sudo apt update
+sudo apt install openjdk-11-jre -y
+java -version
+
+LTS Long Tern stable release
+
+curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key | sudo tee \
+  /usr/share/keyrings/jenkins-keyring.asc > /dev/null
+echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
+  https://pkg.jenkins.io/debian-stable binary/ | sudo tee \
+  /etc/apt/sources.list.d/jenkins.list > /dev/null
+sudo apt-get update -y
+sudo apt-get install jenkins -y
+
+
+to auto start the jenkins 
+sudo systemctl enable jenkins
+
+open the public ip addres:8080 to access the jenkins
+
+get the intial passwor dfrom 
+
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
