@@ -29,3 +29,9 @@ get the intial passwor dfrom
 
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
+
+Jenkins username & password
+http://3.110.218.234:8080/
+http://3.110.218.234:8080/
+Vishwa_Tech
+vish@Devops987
