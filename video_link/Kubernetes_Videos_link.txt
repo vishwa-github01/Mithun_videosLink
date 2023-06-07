@@ -1,0 +1,66 @@
+Kubernetes -26- May 27th 2023
+--------------------------------------------	
+https://transcripts.gotomeeting.com/#/s/2a3c5d4c2e98af0b22c9de6ee5d48f296a9bf4e0ced9c90855cc2134ccaff5dd
+
+Helm & Monitoring Tools
+
+Kubernetes -25- May 26th 2023
+----------------------------------------
+https://transcripts.gotomeeting.com/#/s/3971cdac72be4c0a6f43fe85f77efade428dc35e3f21400d33b90fc32e5bb8de
+
+
+GoTo Meeting Transcripts
+https://transcripts.gotomeeting.com
+
+Heml package manager
+
+Kubernetes -24- May 25th 2023
+------------------------------------------
+https://transcripts.gotomeeting.com/#/s/1e3cb7076d76e83754444aaa72f34faad316dcc01bc843b4d8f548d6469ce70d
+
+Kubernetes -23- May 24th 2023
+-------------------------------------
+https://transcripts.gotomeeting.com/#/s/436b5527ecb077c17b48634e7eaa20c0380979d5ca3762305919452f882be5ee
+RBAC - Role, Role Binding, cluster Role, Role Binding
+
+Kubernetes -22- May 23rd 2023
+-----------------------------------------
+https://transcripts.gotomeeting.com/#/s/68ba76b8585f93b27b51016288aaf939014a74cd1e9f76c31b9974f58e6be30d
+
+Ingress and Ingress controller && EKS
+
+Kubernetes -21- May 22nd 2023
+--------------------------------------------
+https://transcripts.gotomeeting.com/#/s/f4431c2d18b3791ed20a922749b10c9fd7560c7104b580f0f9820b27f4d96da4
+
+Kubernetes -20- May 18th 2023
+---------------------------------
+https://transcripts.gotomeeting.com/#/s/be2c6dc35c74767b6c22ee303c3d1e9693d71ae7e5e4d08bcfe423097fdc0677
+
+Kubernetes -19- May 17th 2023
+---------------------------------
+https://transcripts.gotomeeting.com/#/s/583363346ed6da7f4c224f65e2560ddf25ee6850d7242cdc5954452227a2615b
+
+Kubernetes -18- May 16th 2023
+---------------------------------------------
+https://transcripts.gotomeeting.com/#/s/cbdec3cab3be58ca6beb27fe79f0dea26ecd4161faa50fd985ff0447ad886172
+
+Kubernetes -17- May 15th 2023
+---------------------------------------
+https://transcripts.gotomeeting.com/#/s/a56a16d31574f8ac9979d91802fed6e42abe3c53de7cb518f26d850ed76d90fd
+
+Kubernetes -16- May 12th 2023
+----------------------------------------
+https://transcripts.gotomeeting.com/#/s/9406d69abf083e28baaaa13e37bb20096c022d7c2976495862a53262ec4d7240
+
+Kubernetes -15- May 11th 2023
+-------------------------------------
+https://transcripts.gotomeeting.com/#/s/25cc099a8fe3d95a25a08d592b08fa76966d9eb623fff8354cef653d17455dd0
+
+Kubernetes -14- May 10th 2023
+---------------------------------------
+https://transcripts.gotomeeting.com/#/s/f85d8754831af14473b6dbf7a890184d155abbf4ddc732e2615413da3867aba3
+
+Kubernetes -12- May 8th 2023
+---------------------------------
+https://transcripts.gotomeeting.com/#/s/975eeeadc1d02c1d6a574385d00e362aabfa0f3156aacd81e770c0f23548e200
