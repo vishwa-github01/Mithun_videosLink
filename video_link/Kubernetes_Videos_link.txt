@@ -64,3 +64,48 @@ https://transcripts.gotomeeting.com/#/s/f85d8754831af14473b6dbf7a890184d155abbf4
 Kubernetes -12- May 8th 2023
 ---------------------------------
 https://transcripts.gotomeeting.com/#/s/975eeeadc1d02c1d6a574385d00e362aabfa0f3156aacd81e770c0f23548e200
+
+Kubernetes -11- May 6th 2023
+---------------------------------
+https://transcripts.gotomeeting.com/#/s/f99215b2f1336a89137cff385ad6048901b19ddba1814a801c3956c61ac0b612
+
+Kubernetes -10- May 5th 2023
+---------------------------------
+https://transcripts.gotomeeting.com/#/s/1a3dbd0c673ff8ce86d1e9e606dc1a93c4ffecb3b4c8a4c6393a9e1430a3b592
+
+Kubernetes -09- May 4th 2023
+---------------------------------------
+https://transcripts.gotomeeting.com/#/s/4792f6e191233fc97c0f8b7e7e8fdb4fa412a321b41c3d8204c8a8f9c73eef2a
+
+Kubernetes -08- May 1st 2023
+----------------------------------
+https://transcripts.gotomeeting.com/#/s/d72d8176010e2ce7e91f23c6313e1d3b8d734eb8b53415fd7c46d503eb254023
+
+
+Kubernetes - 07 - April 29th 2023
+---------------------------------
+https://transcripts.gotomeeting.com/#/s/5a8f25904623da253e8fb99f078302ada537d2812fe48b151a61cb4b439c144c
+
+Kubernetes -06- Apr 28th 2023
+----------------------------------
+https://transcripts.gotomeeting.com/#/s/6b3fec379a2394dffe2d90b3dacefb9fbde9bf08d94953fa713ca543285b5781
+
+Kubernetes -05- Apr 27th 2023
+--------------------------------------
+https://transcripts.gotomeeting.com/#/s/ed1c129e0d8c25b8f1411e92a6836d95f0e602b6c034b97b235273eeceb2f5c9
+
+Kubernetes -04- Apr 26th 2023
+----------------------------------
+https://transcripts.gotomeeting.com/#/s/a7aaacb72e0ee621a684c6c5e0f919dc29dfe0e3f1ec64edeb45ff25b1dcef98
+
+Kubernetes -03- Apr 25th 2023
+----------------------------------
+https://transcripts.gotomeeting.com/#/s/731b29de91ab7d32d80148c539da1b1fae86827146a937773b8c3eb3f8025d9d
+
+Kubernetes -02- Apr 24th 2023
+----------------------------------
+https://transcripts.gotomeeting.com/#/s/f3c548956fd043090ec5dce116d73de445cd8b62713197404ee27ce0c7ea4c06
+
+Kubernetes -01- Apr 22nd 2023
+----------------------------------
+https://transcripts.gotomeeting.com/#/s/5371ca3edad49b174e89721eefb2fa191012dac32f5510086706fe6927cc1de1
