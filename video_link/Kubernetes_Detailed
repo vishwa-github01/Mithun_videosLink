@@ -1,0 +1,27 @@
+Kubernetes full detailed to[ic wise and day wise
+
+
+Kubernetes -09- May 4th 2023
+---------------------------------------
+https://transcripts.gotomeeting.com/#/s/4792f6e191233fc97c0f8b7e7e8fdb4fa412a321b41c3d8204c8a8f9c73eef2a]
+
+Deployment startegy in K8s
+Rolling update
+ - deploying the new version of software with some % of pods/nodes
+  if the new version has some defects detected in PROD environment, we can roll back, but user will be impacted by bugs
+
+- Recreate 
+   will stop complete old version and deploy new version
+   Down time for user
+
+Deployment Techniques
+
+Blue Green Deployment 
+  2 version of the application in a environment, old is running and 
+  deploy latest version and once new version is verified 
+  Live (Blue env)
+Canary deployment
+
+
+DR environment is Disaster Recovery envirmnet is just same version n same environment for emergency situation 
+
