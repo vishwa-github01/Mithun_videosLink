@@ -1,3 +1,19 @@
+Docker -19- Apr 18th 2023
+---------------------------------
+https://transcripts.gotomeeting.com/#/s/7cbe6c29b80566e6c29af125bd3d45c495f707f419690f616bab939eafa8e925
+
+Docker -18- Apr 17th 2023
+-----------------------------
+https://transcripts.gotomeeting.com/#/s/3b34b9218d1b7441f25227cfa6111bb811d8734348b252dd9cb5b872cf42b8c3
+
+Docker -17- Apr 14th 2023
+-----------------------------
+https://transcripts.gotomeeting.com/#/s/9af161ac0bba880abdcf329dc8acf5f6a79d7b42afd827141f9008801818b02e
+
+Docker -16- Apr 13th 2023
+---------------------------------
+https://transcripts.gotomeeting.com/#/s/9486758c85a6baf1dd97f49285206cad4b7bd0bf8ef22a6fe2e66f8b634c56dc
+
 Docker -15- Apr 12th 2023
 -----------------------------
 https://transcripts.gotomeeting.com/#/s/d6205baaea0723c846516a1b9bf4fb33f23b5f96772ab59c31ab50c88a9b8e8c
