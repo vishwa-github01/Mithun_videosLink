@@ -60,6 +60,9 @@ https://transcripts.gotomeeting.com/#/s/25cc099a8fe3d95a25a08d592b08fa76966d9eb6
 Kubernetes -14- May 10th 2023
 ---------------------------------------
 https://transcripts.gotomeeting.com/#/s/f85d8754831af14473b6dbf7a890184d155abbf4ddc732e2615413da3867aba3
+Kubernetes - 13 - May 9th 2023
+------------------------------
+https://transcripts.gotomeeting.com/#/s/0d9897c122c3e99115c8401bc79d28b3352a122351603830b84ba138ff6459be
 
 Kubernetes -12- May 8th 2023
 ---------------------------------
